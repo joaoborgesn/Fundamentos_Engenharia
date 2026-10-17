@@ -10,4 +10,5 @@ Nesta disciplina EAD, tivemos aulas remotas pelo Google Meet e algumas videoaula
 
 | Projeto | Arquivo |
 | :--- | :--- |
-| Trabalho de Sistematização | |
+| Trabalho de Sistematização | [Joao_Pedro_Questoes.pdf](https://github.com/user-attachments/files/33596440/Joao_Pedro_Questoes.pdf)
+|
